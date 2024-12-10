@@ -1,0 +1,29 @@
+{
+	"class_homepage": "https://example.com",
+	"building": "东11舍",
+	"room_no": 317,
+	"members":
+		[
+			{
+				"name": "张三",
+				"student_id": "2018000000",
+				"homepage": "https://example.com"
+			},
+			{
+				"name": "李四",
+				"student_id": "2018000001",
+				"homepage": "https://example.com"
+			},
+			{
+				"name": "王五",
+				"student_id": "2018000002",
+				"homepage": "https://example.com"
+			},
+			{
+				"name": "赵六",
+				"student_id": "2018000003",
+				"homepage": "https://example.com"
+			}
+
+		]
+}
